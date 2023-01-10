@@ -61,32 +61,32 @@ section {
     position: relativeS;
 }
 
-.card--image {
+.card-image {
     width: 100%;
     border-radius: 9px;
     margin-bottom: 9px;
 }
 
-.card--title {
+.card-title {
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
-.card--stats {
+.card-stats {
     display: flex;
     align-items: center;
 }
 
-.card--star {
+.card-star {
     height: 14px;
 }
 
-.card--price {
+.card-price {
     margin-top: auto;
 }
 
 
-.card--badge {
+.card-badge {
     position: absolute;
     top: 6px;
     left: 6px;
